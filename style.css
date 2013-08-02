@@ -1,0 +1,35 @@
+/* 
+    Document   : style
+    Created on : 2013/08/01, 19:01:04
+    Author     : kenta
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+th, td { 
+    padding: 5px;
+    border: 1px solid #ccc;
+    text-align: center;    
+}
+th{
+    background: #eee;
+}
+
+.youbi_0 {
+    color: #ff0000;    
+}
+.youbi_6 {
+    color: #0000ff;
+}
+
+
+table tr:hover { /* trタグ 行にマウスが乗った時*/
+  color: #19197c; /* 文字色 */
+  background-color: #e5ecff; /* 背景色 */
+   }
+
+ 
+tr td:hover { /* tdタグ セルにマウスが乗った時*/
+  color: #19197c; /* 文字色 */
+  background-color: #ccffee; /* 背景色 */
+   }
