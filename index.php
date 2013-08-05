@@ -56,7 +56,7 @@ for ($day = 1; $day <= $lastDay; $day++, $youbi++) {
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <title>PHPでカレンダー</title>
+    <title>カレンダー</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
